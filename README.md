@@ -8,4 +8,4 @@ This project is a Web based Meal Recipe App. Which utilizes external Edamam API 
 
 ## Demo
 
-Try out the demo [here](https://dazzling-hermann-67c236.netlify.app/) 
+Checkout the web-app here:- [here](https://dazzling-hermann-67c236.netlify.app/) 
