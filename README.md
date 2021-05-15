@@ -5,4 +5,4 @@ A simple React JS based web application that consumes the Edamam API to search a
 
 ## Demo
 
-Try out the demo [here](https://shalomalexander.github.io/recipe/) 
+Try out the demo [here](https://dazzling-hermann-67c236.netlify.app/) 
